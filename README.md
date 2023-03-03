@@ -12,10 +12,10 @@
 |Comand  |  Usage  |
 |--------  |---------|
 |  *clear*   | **This commad is using to clear the shell** |
-|  *mkdir*   | **This commad create a new Dirin the current path**|
+|  *mkdir*   | **This commad create a new directory the current path**|
 |  *rm*      | **This commad delete any file**|
 |  *mv*      | **This commad move a file from a path to another** |
-|  *cat*     | **This commad print the content from some thfile** |
+|  *cat*     | **This commad print the content from some file** |
 
 ### Some Alias-shortcuts to work fast
 |Alias     | Comand  |  Usage  |
