@@ -8,7 +8,7 @@
 
 *📒 My native language is Spanish and I am currently perfecting my English.*
 
-### Some Comands what I have learned in the first bottcamp class
+<!-- ### Some Comands what I have learned in the first bottcamp class
 |Comand  |  Usage  |
 |--------  |---------|
 |  *clear*   | **This commad is using to clear the shell** |
@@ -21,7 +21,7 @@
 |Alias     | Comand  |  Usage  |
 |--------  |---------|--------
 |  *cls*   |  *clear* | **This alias is shortest and quickly than clear** |
-|  *findd* |  *ls ~/  grep $1* |**This alias is very useful because we can find any directory quickly**|
+|  *findd* |  *ls ~/  grep $1* |**This alias is very useful because we can find any directory quickly**| -->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/German Perez#5422) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/german_r__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/German Ronaldo Perez Girón) 
