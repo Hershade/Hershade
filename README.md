@@ -72,14 +72,14 @@ Custom ERP modules and automation workflows for e-commerce, workshop appointment
 
 ## 📊 GitHub Stats
 
-![German's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hershade&theme=dark&hide_border=true&show_icons=true)
+![German's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Hershade&theme=dark&hide_border=true&show_icons=true](https://github-readme-stats.vercel.app/api?username=Hershade&theme=dark&hide_border=false&include_all_commits=false&count_private=false))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hershade&theme=dark&hide_border=true&layout=compact)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Hershade&theme=dark&hide_border=true&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=Hershade&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hershade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact))
 
 ---
 
 ## 📫 Contact
 
 - GitHub: [Hershade](https://github.com/Hershade)
-- LinkedIn: [German Girón](https://www.linkedin.com/)
+- LinkedIn: [German Girón](https://www.linkedin.com/in/german-gir%C3%B3n-00423025a)
 - Email: germandev.gt@gmail.com
